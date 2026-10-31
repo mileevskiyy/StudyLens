@@ -2,6 +2,11 @@
 
 **An independent learning workspace for notes, flashcards and deliberate daily practice.**
 
+[![Live demo](https://img.shields.io/badge/Live_demo-Try_StudyLens-cb6647?style=for-the-badge)](https://studylens-demo.onrender.com/)
+[![Learning workflow checks](https://github.com/mileevskiyy/StudyLens/actions/workflows/ci.yml/badge.svg)](https://github.com/mileevskiyy/StudyLens/actions/workflows/ci.yml)
+
+**[Open the live demo](https://studylens-demo.onrender.com/)** → **Try the demo**. No account or setup key required. The free service can take a little time to wake after inactivity. Each visitor gets an isolated, disposable sample workspace.
+
 StudyLens brings a small, complete learning loop into one place: collect an explanation, turn it into a question, recall the answer, rate the effort and return when the card is due. The interface uses paper tones, editorial typography and subject covers to make the experience feel like a study journal.
 
 ![StudyLens workspace](docs/workspace.png)

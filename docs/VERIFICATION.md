@@ -18,6 +18,10 @@ The browser scenario creates a collection and note, uses the note-to-card draft,
 
 Screenshots are available in this directory: `entry.png`, `workspace.png`, `review.png` and `mobile.png`. They are verification artifacts rather than claimed production usage. The sample activity count in the mobile screenshot comes from that browser test.
 
+## Published demo
+
+The same browser workflow passed against `https://studylens-demo.onrender.com/` on 31 October 2026. It created its own isolated sample workspace, completed a review, checked saved progress and exported/imported the library. The initial GitHub Actions run also completed successfully.
+
 ## Verification limits
 
 These checks establish functional behavior in the covered scenarios. They are not load tests, a formal security audit, a full accessibility audit, scientific validation of the scheduler, or measured learning outcomes. The free demo's data is deliberately disposable. GitHub Actions and public deployment status should be checked for the specific published commit rather than inferred from the local results.

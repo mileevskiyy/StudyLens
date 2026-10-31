@@ -38,7 +38,6 @@ function Logo() {
         <Leaf size={21} />
       </span>
       study<span>lens</span>
-      <sup>®</sup>
     </span>
   );
 }
